@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+*.json
+!package.json
+
+venv/
+__pycache__/
+*.pyc
+
+credentials/
+service-account.json
